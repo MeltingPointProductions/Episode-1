@@ -1,0 +1,13 @@
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Video and Photo Nerd\Intro to OOP and C#\Episode_Git\Episode-1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
